@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Esete es un repositorio del modulo 2 del prepcourse de henry.  
+Esete es un repositorio es una prueba de como clonar, desde githab
